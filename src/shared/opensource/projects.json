@@ -1,0 +1,119 @@
+
+{
+"data": [
+  {
+    "id": "electric-car-sales",
+    "name": "Data Visualization: Electric Car Sales",
+    "createdAt": "2025-02-01T00:00:00Z",
+    "url": "https://github.com/NeetiMishra/electric-car-sales", 
+    "description": "Created a Tableau dashboard analyzing EV trends, highlighting Tesla’s 45% market share and identifying key growth opportunities. Noted a 250% rise in EV registrations since 2010.",
+    "isFork": false,
+    "languages": [
+      {
+        "name": "Tableau",
+        "iconifyClass": "simple-icons:tableau"
+      },
+      {
+        "name": "SQL",
+        "iconifyClass": "simple-icons:postgresql"
+      }
+    ]
+  },
+  {
+    "id": "instacart-reorder-prediction",
+    "name": "Applied Machine Learning: Instacart Reorder Prediction",
+    "createdAt": "2024-12-01T00:00:00Z",
+    "url": "https://github.com/NeetiMishra/instacart-reorder",
+    "description": "Designed and implemented ML models (on 3M+ transactions, 200K+ users) to predict reorder behavior. Achieved 86% accuracy and 0.85 ROC-AUC, enabling personalized recommendations that boosted revenue by 10%.",
+    "isFork": false,
+    "languages": [
+      {
+        "name": "Python",
+        "iconifyClass": "logos-python"
+      }
+    ]
+  },
+  {
+    "id": "conagra-sas-predictive",
+    "name": "Predictive Analytics with SAS: Conagra Dataset",
+    "createdAt": "2024-05-01T00:00:00Z",
+    "url": "https://github.com/NeetiMishra/conagra-predictive-sas",
+    "description": "Processed 500K+ sales records and used time-series forecasting to improve demand accuracy by 20% and reduce inventory costs by 15%. Provided data-driven insights to inform strategic market decisions.",
+    "isFork": false,
+    "languages": [
+      {
+        "name": "SAS",
+        "iconifyClass": "simple-icons:sas"
+      },
+      {
+        "name": "SQL",
+        "iconifyClass": "simple-icons:postgresql"
+      }
+    ]
+  },
+  {
+    "id": "rent-forecasting-r",
+    "name": "Business Analytics with R: Forecasting Rent",
+    "createdAt": "2023-12-01T00:00:00Z",
+    "url": "https://github.com/NeetiMishra/rent-forecasting",
+    "description": "Developed predictive models in R using regression and neural networks to forecast rental prices with 85% accuracy. Improved pricing strategy by 15% and boosted profitability by 10%.",
+    "isFork": false,
+    "languages": [
+      {
+        "name": "R",
+        "iconifyClass": "simple-icons:r"
+      },
+      {
+        "name": "SQL",
+        "iconifyClass": "simple-icons:postgresql"
+      }
+    ]
+  },
+  {
+    "id": "whatsapp-feature-scheduling",
+    "name": "Agile Project Management: WhatsApp Feature Enhancement",
+    "createdAt": "2024-12-15T00:00:00Z",
+    "url": "https://github.com/NeetiMishra/whatsapp-scheduling",
+    "description": "Prototyped a message scheduling feature to tackle time-zone issues. Enhanced message engagement by 20%, validated through usability testing with 100+ participants.",
+    "isFork": false,
+    "languages": [
+      {
+        "name": "Figma",
+        "iconifyClass": "simple-icons:figma"
+      }
+    ]
+  },
+  {
+    "id": "vibetribe-ai-travel",
+    "name": "Tech & New Product Development: VibeTribe",
+    "createdAt": "2024-05-01T00:00:00Z",
+    "url": "https://github.com/NeetiMishra/vibetribe",
+    "description": "AI-powered travel platform for solo travelers. Implemented AI matchmaking, improving personalization by 40% and increasing retention by 25%. Secured 100+ early adopters in pilot phase.",
+    "isFork": false,
+    "languages": [
+      {
+        "name": "Python",
+        "iconifyClass": "logos-python"
+      },
+      {
+        "name": "R",
+        "iconifyClass": "simple-icons:r"
+      }
+    ]
+  },
+  {
+    "id": "skillx-ai-learning",
+    "name": "Digital Product Management: SkillX",
+    "createdAt": "2024-05-15T00:00:00Z",
+    "url": "https://github.com/NeetiMishra/skillx",
+    "description": "Defined product vision and market opportunities for an AI-based skill development platform. Achieved a 30% increase in user adoption and improved course completion by 40%.",
+    "isFork": false,
+    "languages": [
+      {
+        "name": "Python",
+        "iconifyClass": "logos-python"
+      }
+    ]
+  }
+]
+}
